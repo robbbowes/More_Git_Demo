@@ -1,1 +1,1 @@
-console.log("Hi jaguar!");
+console.log("Java is better!");
